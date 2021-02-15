@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Learning JavaScript to make a custom power cord plug-in that has
+-Personal Pins
+-Calender/Planner
+-and more that I think of
 <!--
 **doggybootsy/doggybootsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
