@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-Learning JavaScript to make a custom power cord plug-in that has
+Learning Css to make a custom themes
 
--Personal Pins
 
--Calender/Planner
-
--NotePad
-
--and more that I think of
-
--Prolly gonna add https://is.gd/IInHpx https://is.gd/xExatJ https://is.gd/8t8aW6 
 <!--
 **doggybootsy/doggybootsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
