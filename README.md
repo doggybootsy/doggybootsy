@@ -1,5 +1,8 @@
 ### Hi there 👋
 <div>
+    <img src="https://komarev.com/ghpvc/?username=doggybootsy" alt="Profile Views Count">
+</div>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=doggybootsy&show_icons=true&include_all_commits=true&theme=material-palenight"       alt="Doggybootsy's GitHub Stats" />
   </a>
