@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Css(Scss) and trying Javascropt
+- 🌱 I’m currently learning Css(Scss) and trying Javascript
 - 👯 I’m looking to collaborate on theme(Prolly not for a long time tho)
 - 😄 Pronouns: He/Him
  
