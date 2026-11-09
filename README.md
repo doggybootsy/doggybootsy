@@ -1,29 +1,30 @@
 ### Hi there, I'm Doggybootsy 👋
 
 ## About me
-I am a self tought hobby programmer and I am a betterdiscord addon developer
+I'm a self-taught programmer and the lead developer of [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord).
+
+I've been coding since early 2021 and have been working on BetterDiscord ever since — the core runtime, build pipeline, addon/plugin systems, and installer tooling.
 
 I use Visual Studio Code
 
-I use Windows but I have tried linux (Arch and Ubuntu). I used to use MacOS
+I use Windows, but I've tried Linux (Arch and Ubuntu) and run an Ubuntu home server. I used to use macOS
 
 My Discord is [@doggybootsy](https://discord.com/users/515780151791976453)
 
-I have been coding since Early 2021
 ### My Hobbies
-Discord Modding, random code projects, and games
+Discord modding, self-hosting, random code projects, and games
 
 ### Languages I know
 JavaScript, TypeScript, HTML, CSS, SASS (both .sass and .scss)
 
-### Popular js frameworks I know
-ReactJS and NodeJS
+### Frameworks & tools I know
+React, Electron, Vite, esbuild, webpack internals, Elysia
 
 ### JS Runtimes I know (cjs and esm)
-Bun, NodeJS and web
+Bun, Node.js and web
 
 ### Languages I know some of / learning
-C#, C++, batch, sh / bash, powershell
+Rust, C#, C++, batch, sh / bash, PowerShell
 
 ### Stuff I have messed around with
 React Native and SolidJS
